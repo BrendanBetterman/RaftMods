@@ -35,6 +35,14 @@ FishingRod_Metal
 NetGun
 Shovel
 Bow
+Binoculars
+Arrow_Stone
+Arrow_Metal
+Bucket
+SweepNet
+
+HealingSalve
+HealingSalve_Good
 
 
 Seeds:
@@ -63,6 +71,11 @@ Flower_Blue
 Flower_Black
 Flower_Yellow
 
+Recipes:
+
+Placeable_Recipe_VegetableSoup
+Placeable_Recipe_HeadBroth
+
 Food:
 
 Mango
@@ -74,11 +87,16 @@ Cooked_Drumstick
 Cooked_Catfish
 Cooked_Pomfret
 Cooked_Tilapia
+Cooked_Shark
+Cooked_GenericMeat
+Cave_Mushroom
 
 SilverAlgae
 Egg
 
 Pineapple
+Bucket_Milk
+Coconut
 
 Raw_Tilapia
 Raw_Herring
@@ -86,6 +104,8 @@ Raw_Salmon
 Raw_Catfish
 Raw_Drumstick
 Raw_Pomfret
+Raw_GenericMeat
+
 
 
 Placeable_Anchor_Stationary
@@ -108,7 +128,14 @@ Placeable_Storage_Small
 Placeable_Bed_Simple
 Placeable_Bed_Hammock
 Placeable_CookingPot
-
+Placeable_CookingStand_Purifier_One
+Placeable_CookingStand_Purifier_Two
+Placeable_Cropplot_Grass
+Placeable_Streamer
+Placeable_TrophyBoard_Small
+Placeable_TrophyBoard_Medium
+Placeable_TrophyBoard_Large
+Placeable_ResearchTable
 
 Placeable_Table
 Placeable_Sign
@@ -121,10 +148,16 @@ Placeable_Sprinkler
 
 Placeable_Reciever_Antenna
 Placeable_Reciever
+Placeable_SteeringWheel
 
 
 Unobtainables:
 
 Placeable_SharkTrophy
 Repair
+Placeable_Figurine_Chicken
+Placeable_Figurine_Llama
+Placeable_Figurine_Goat
+
+Barrel
 

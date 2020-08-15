@@ -18,7 +18,7 @@ Thatch
 Tools:
 
 OxygenBottle
-Repair
+
 Axe
 Axe_Stone
 FishingRod
@@ -31,6 +31,11 @@ SharkBait
 Spear_Scrap
 Spear_Wood
 Battery
+FishingRod_Metal
+NetGun
+Shovel
+Bow
+
 
 Seeds:
 
@@ -64,7 +69,23 @@ Mango
 Cooked_Potato
 Cooked_Beat
 Cooked_Herring
+Cooked_Mackerel
+Cooked_Drumstick
+Cooked_Catfish
+Cooked_Pomfret
+Cooked_Tilapia
 
+SilverAlgae
+Egg
+
+Pineapple
+
+Raw_Tilapia
+Raw_Herring
+Raw_Salmon
+Raw_Catfish
+Raw_Drumstick
+Raw_Pomfret
 
 
 Placeable_Anchor_Stationary
@@ -79,8 +100,31 @@ Placeable_Cropplot_Small
 Placeable_GiantClam
 Placeable_ItemNet
 Placeable_Lantern
+Placeable_BirdsNest
+Placeable_Rug
+
 Placeable_Storage_Medium
+Placeable_Storage_Small
+Placeable_Bed_Simple
+Placeable_Bed_Hammock
+Placeable_CookingPot
+
+
 Placeable_Table
 Placeable_Sign
 Placeable_Shelf
+Placeable_Clock
+Placeable_LuckyCat
+Placeable_Calendar
+Placeable_PaintMill
+Placeable_Sprinkler
+
+Placeable_Reciever_Antenna
+Placeable_Reciever
+
+
+Unobtainables:
+
+Placeable_SharkTrophy
+Repair
 
